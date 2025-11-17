@@ -112,7 +112,7 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": "\uf432 ",
+          "template": "\u0362 ",
           "type": "status"
         }
       ],
