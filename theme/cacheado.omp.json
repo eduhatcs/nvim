@@ -51,7 +51,7 @@
         },
         {
           "background": "#272727",
-          "foreground": "#00ff0d",
+          "foreground": "#ff2400", //00ff0d
           "properties": {
             "fetch_status": true
           },
@@ -104,7 +104,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#00ff0d",
+          "foreground": "#ff2400", //#00ff0d
           "foreground_templates": [
             "{{ if gt .Code 0 }}#ff0000{{ end }}"
           ],
