@@ -49,8 +49,8 @@
           "type": "path"
         },
         {
-          "background": "#272727",
-		  "foreground": "#FF7F50", //#00ff0d
+          "background": "#000000", // #272727
+		  "foreground": "#FFFFFF", //#00ff0d
           "properties": {
             "fetch_status": true
           },
