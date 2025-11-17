@@ -89,7 +89,7 @@
           "background": "#272727",
           "foreground": "#43CCEA",
           "properties": {
-            "time_format": "3:04:05 PM"
+            "time_format": "15:04:05"
           },
           "style": "diamond",
           "template": "<#000000> \ue31e\uf0fb </>{{ .CurrentDate | date .Format }} ",
@@ -112,7 +112,7 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": "\u0362",
+          "template": "\u276f ",
           "type": "status"
         }
       ],
