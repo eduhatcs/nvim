@@ -50,7 +50,7 @@
         },
         {
           "background": "#000000", // #272727
-		  "foreground": "#FFFFFF", //#00ff0d
+		  "foreground": "#ffffff", //#00ff0d
           "properties": {
             "fetch_status": true
           },
